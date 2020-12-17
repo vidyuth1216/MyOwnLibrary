@@ -1,2 +1,2 @@
-# MyOwnLibrary
-obj1,obj2,fixedrect,movingrect. This is our project
+# p5.play-boilerplate
+Boiler plate for p5.play
